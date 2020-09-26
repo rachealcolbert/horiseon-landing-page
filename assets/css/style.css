@@ -4,10 +4,12 @@
     margin: 0;
 }
 
+/* sets background color of the entire page */
 body {
     background-color: #d9dcd6;
 }
 
+/* header formatting throughout the page */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -41,6 +43,7 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/* formats for all links and paragraph text */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -50,6 +53,7 @@ p {
     font-size: 16px;
 }
 
+/* general formatting for the jumbotron */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,6 +63,7 @@ p {
     background-position: center;
 }
 
+/* formatting for the 3 content blocks: Search Engine Optimization, Online Reputation Management, and Social Media Marketing */
 .content {
     width: 75%;
     display: inline-block;
@@ -100,6 +105,7 @@ p {
     font-size: 36px;
 }
 
+/* formatting for the aside block and articles Lead Generation, Brand Awareness, and Cost Management */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -133,6 +139,7 @@ p {
     max-width: 150px;
 }
 
+/* footer formatting */
 footer {
     padding: 30px;
     clear: both;
