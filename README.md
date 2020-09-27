@@ -1,6 +1,6 @@
 # Horiseon Landing Page Accessibility Edits
 
-## Purpose
+## **Purpose**
 
 To update a current code base for Horiseon's landing page that follows accessibility standards so that their site is optimized for search engines. These standards include :
 
@@ -10,7 +10,15 @@ To update a current code base for Horiseon's landing page that follows accessibi
 - the heading attributes fall in sequential order
 - there is a concise, descriptive title
 
-## Built With
+### **Website Link:**
+
+![Picture of Horiseon Landing Page](./assets/images/horiseon.png)
+
+## **Built With**
 
 - HTML
 - CSS
+
+## **Contribution**
+
+Made with 💗 by Racheal Colbert
