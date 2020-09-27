@@ -12,6 +12,8 @@ To update a current code base for Horiseon's landing page that follows accessibi
 
 ### **Website Link:**
 
+https://rachealcolbert.github.io/horiseon-landing-page/
+
 ![Picture of Horiseon Landing Page](./assets/images/horiseon.png)
 
 ## **Built With**
